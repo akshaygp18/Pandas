@@ -1,3 +1,3 @@
 # Pandas
 
-This is handy part of pandas for datascience
+This is handy part of pandas for DataScience
